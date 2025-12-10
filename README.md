@@ -1,13 +1,20 @@
-<h1>**Posterization Tool (OpenCV + Python)**</h1>
+<h1>Posterization Tool (OpenCV + Python)</h1>
+
 A simple image posterization tool built using OpenCV.
 The program reduces the number of colors in an image based on user input and saves the result.
 
 **Project structure**
+
 /assets            → Input images  
+
 /results           → Output posterized images  
+
 /src
+
     posterization.py  → Main posterization script
+
 README.md
+
 requirements.txt
 
 **Features**
@@ -29,7 +36,9 @@ requirements.txt
 <li>Original image and posterized image will be displayed side by side </li>
 <li>Posterized image will be saved in results/posterized.png (ensure that the folder exists)</li>
 </ol>
+
 The program:
+
 * Loads the original image
 * Converts BGR → RGB
 * Applies median blur
