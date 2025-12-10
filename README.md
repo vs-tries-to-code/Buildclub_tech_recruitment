@@ -1,7 +1,7 @@
 <h1>Posterization Tool</h1>
 
 A simple image posterization tool built using **OpenCV**, **NumPy** and **matplotlib.pyplot**
-The program reduces the number of colors in an image based on user input and saves the result.
+<br>The program reduces the number of colors in an image based on user input and saves the result.
 
 **Project structure**
 
@@ -49,5 +49,5 @@ The program:
 * Saves the posterized image
 
 **Sample Output**
-Output for n=5
+<br>Output for n=5
 <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/82313853-0c15-4cf1-abde-f4cffa179309" />
