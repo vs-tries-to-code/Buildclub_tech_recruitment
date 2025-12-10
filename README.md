@@ -1,6 +1,6 @@
-<h1>Posterization Tool (OpenCV + Python)</h1>
+<h1>Posterization Tool</h1>
 
-A simple image posterization tool built using OpenCV.
+A simple image posterization tool built using **OpenCV**, **NumPy** and **matplotlib.pyplot**
 The program reduces the number of colors in an image based on user input and saves the result.
 
 **Project structure**
