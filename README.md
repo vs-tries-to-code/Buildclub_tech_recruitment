@@ -31,6 +31,7 @@ requirements.txt
 <li>Clone this repository</li>
 <li>Navigate into the project folder</li>
 <li>Install the required libraries using pip install -r requirements.txt</li>
+<li>Specify path of image used in the code </li>
 <li>Run the posterization script</li>
 <li>Enter the number of color groups when prompted</li>
 <li>Original image and posterized image will be displayed side by side </li>
