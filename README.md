@@ -36,6 +36,7 @@ requirements.txt
 <li>Enter the number of color groups when prompted</li>
 <li>Original image and posterized image will be displayed side by side </li>
 <li>Posterized image will be saved in results/posterized.png (ensure that the folder exists)</li>
+<li>Click on "save figure" in the output figure to save the comparison</li>
 </ol>
 
 The program:
