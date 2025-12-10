@@ -20,14 +20,15 @@ requirements.txt
 * Saves output to /results/
 
 **How to Run**
-1.Clone this repository
-2.Navigate into the project folder
-3.Install the required libraries using pip install -r requirements.txt
-4.Run the posterization script
-5.Enter the number of color groups when prompted
-6.Original image and posterized image will be displayed side by side 
-7.Posterized image will be saved in results/posterized.png (ensure that the folder exists)
-
+<ol>
+<li>Clone this repository</li>
+<li>Navigate into the project folder</li>
+<li>Install the required libraries using pip install -r requirements.txt</li>
+<li>Run the posterization script</li>
+<li>Enter the number of color groups when prompted</li>
+<li>Original image and posterized image will be displayed side by side </li>
+<li>Posterized image will be saved in results/posterized.png (ensure that the folder exists)</li>
+</ol>
 The program:
 * Loads the original image
 * Converts BGR → RGB
